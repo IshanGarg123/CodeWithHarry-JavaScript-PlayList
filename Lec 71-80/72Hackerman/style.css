@@ -1,0 +1,11 @@
+html,body{
+    height: 100%;
+    width:100%;
+}
+
+body{
+    color:rgb(38, 201, 38);
+    background-color: black;
+    font-size: 20px;
+    font-family:'Lato',sans-serif;
+}
